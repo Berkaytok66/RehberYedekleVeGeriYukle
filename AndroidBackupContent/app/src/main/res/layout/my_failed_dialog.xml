@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/colorSecondaryDialog">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/error_" />
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="HATA BULUNDU!!"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:textAppearance="@style/ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Year" />
+
+        <TextView
+            android:id="@+id/txt_sucssesful"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="İşlem sırasında bir hata bulundu"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button_ok"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="ok"
+            android:background="@drawable/button_bacgrount_failed"
+            android:textColor="@color/colorSecondaryDialog"/>
+
+    </LinearLayout>
+
+</LinearLayout>

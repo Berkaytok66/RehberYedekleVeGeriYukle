@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/drawable/button_bacgrount_failed.xml" value="0.303" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/drawable/button_bacgrount_succses.xml" value="0.303" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/drawable/custom_progres_bg.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/drawable/file_76.xml" value="0.203" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/drawable/import_export.xml" value="0.203" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/drawable/tik_.xml" value="0.338" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/activity_setting.xml" value="0.2441123188405797" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/activity_start_uygulama_ekrani.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/alert_tasarim.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/fragment_birinci_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/fragment_iki_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/fragment_settings_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/fragment_ucuncu_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/my_failed_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/my_succses_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/paylas_import.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/settings_fragment_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/vcf_file_item.xml" value="0.33" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/layout/vcf_item_view.xml" value="0.33" />
+        <entry key="..\:/AndroidBackupContent/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
